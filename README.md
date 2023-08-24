@@ -1,4 +1,5 @@
 # nerf
 Let's nerf!
-<br>
+<div>
 <img src = "Logo.png"><img>
+</div>
